@@ -106,3 +106,5 @@ relig_income
 relig_income %>%
   pivot_longer(-religion, names_to = "income", values_to = "frequency")
 ```
+
+This is some **edit** to my markdown file
