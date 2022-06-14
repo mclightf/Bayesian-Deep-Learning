@@ -13,3 +13,5 @@ Some of the main resources we may use are listed below:
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/pdf/2002.08791.pdf)  by Andrew Gordon Wilson & Pavel Izmailov (NYU Paper)
 - [BLNN: An R package for training neural networks using Bayesian inference](https://www.sciencedirect.com/science/article/pii/S235271101930322X) by Taysseer Sharaf et al., which referes to [this package](https://github.com/BLNNdevs/BLNN)
 - [Deep Learning](https://www.deeplearningbook.org/front_matter.pdf) by Ian Goodfellow, Yoshua Bengio, & Aaron Courville
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) by David MacKay
+  - Chapter V seems relevant to us.
